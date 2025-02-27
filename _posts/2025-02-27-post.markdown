@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "New Project - Shaker Door Calculator"
+date:   2025-02-27 00:00:00 -0600
+categories: projects
+---
+In planning the next stage of my cabinet build, I began crunching numbers to develop a cutlist for the cabinet doors. I've grown tired of all of the mental math and silly sketches that have been necessary in many of this project's stages, so I built a simple calculator to automate at least _some_ of the more tedious calculating needed to build shaker style cabinet doors.
+
+What's published at the time of this post is very much "Version 1", but I expect to make small tweaks in the future. The general styling of the page leaves much to be desired, so I'll probably start there.
+
+Check it out [here](https://caseyschmitz.com/shaker-door-calculator/){:target="_blank"}.
